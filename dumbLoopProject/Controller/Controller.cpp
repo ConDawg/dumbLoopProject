@@ -28,4 +28,5 @@ void Controller :: start()
     
     cout << endl << "Wuss poppin? " << "how are you?" << " whats good?" << endl;
   
+    cout << &name
 }
